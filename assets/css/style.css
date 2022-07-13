@@ -1166,6 +1166,9 @@ section {
   overflow: hidden;
   border-right: 3px solid #454035;
   border-bottom: 3px solid #454035;
+  width: 20rem;
+  height: 20rem;
+  border-color: border;
 }
 .gallery .gallery-item img {
   transition: all ease-in-out 0.4s;
