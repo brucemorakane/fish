@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+#fish
 
-Template Name: Restaurantly
-Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+[link]( https://brucemorakane.github.io/fish/)
+
