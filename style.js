@@ -27,6 +27,10 @@ function caculate() {
         screenTop.push(screenTop[i])
       }
 
+      caculate()
+      total()
+
+
 
 
 
