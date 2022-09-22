@@ -9,9 +9,25 @@ var totalscreen = document.getElementById('totalscreen')
 screenTop = []
 
 function caculate() {
-    for (let screenTop = 0; screenTop < array.length; index++) {
+    totalscreen = 0
         
-    }
-}
+      // for the loop into showscreen
+        for (let bruce = 0; bruce < screenTop.length; [bruce] ) {
+          
+          total += Number(screenTop[bruce].price);
+      
+          totalscreen.innerHTML = total
+      
+        }
+        
+      }
+
+      function total() {
+        totalscreen = document.getElementById('totalscreen')
+        screenTop.push(screenTop[i])
+      }
+
+
+
 
 
