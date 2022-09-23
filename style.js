@@ -6,15 +6,15 @@ var telephone = document.getElementById('telephone')
 
 var totalscreen = document.getElementById('totalscreen')
 
-screenTop = []
+screentop = []
 
 function caculate() {
     totalscreen = 0
         
       // for the loop into showscreen
-        for (let bruce = 0; bruce < screenTop.length; [bruce] ) {
+        for (let bruce = 0; bruce < screentop.length; [bruce] ) {
           
-          total += Number(screenTop[bruce].price);
+          total += Number(screentop[bruce].price);
       
           totalscreen.innerHTML = total
       
@@ -24,7 +24,7 @@ function caculate() {
 
       function totalscreen() {
         totalscreen = document.getElementById('totalscreen')
-        screenTop.push(screenTop[bruce])
+        screentop.push(screenTop[bruce])
       }
 
       caculate()
