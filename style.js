@@ -22,17 +22,18 @@ function caculate() {
         
       }
 
-      function total() {
+      function totalscreen() {
         totalscreen = document.getElementById('totalscreen')
-        screenTop.push(screenTop[i])
+        screenTop.push(screenTop[bruce])
       }
 
       caculate()
-      total()
-
-
-
+      totalscreen()
       
+
+
+
+
 
 
 
